@@ -7,7 +7,6 @@ The application allows you to add, list, complete, remove and clear all tasks th
 
 
 ## Install
----------------------------------------------
 
 To install the application first clone the repo and install the requirements by running:
 
@@ -21,6 +20,7 @@ This will display all of the options you may use, for now you can only run the t
 
 
 ## Command list
+
 -------------------------------------------------
 | init | add | list | complete | remove | clear |  
 -------------------------------------------------
