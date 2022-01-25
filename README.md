@@ -1,8 +1,8 @@
 RP Python typer cli tutorial application
 
-I followed the Real Python tutorial to create a cli to-do application using typer.
+I followed the Real Python tutorial to create a cli todo application using typer.
 
-url - https://realpython.com/python-typer-cli/#project-overview
+Tutorial URL -  https://realpython.com/python-typer-cli/#project-overview
 
 The application allows you to add, list, complete, remove and clear all tasks that are added in the applications database.
 
@@ -17,7 +17,7 @@ Once the modules and dependencies have been installed, change to the project dir
 
 	python -m rptodo --help
 
-This will display all of the options you may use, for now you can only run the todo  application from the rptodo directory.
+This will display all of the options you may use, for now you can only run the todo application from the rptodo directory.
 
 
 ## Command list
